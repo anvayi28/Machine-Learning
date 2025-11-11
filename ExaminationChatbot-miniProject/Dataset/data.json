@@ -1,0 +1,365 @@
+[
+    {
+    "question": "Hello",
+    "answer" : "Heyy There!!"
+  },
+  {
+    "question": "What does 'Government' refer to in this document?",
+    "answer": "'Government' refers to the Government of Maharashtra."
+  },
+  {
+    "question": "What is meant by 'University' in these rules?",
+    "answer": "It means Shivaji University, Kolhapur."
+  },
+  {
+    "question": "Which programmes are covered under these examination rules?",
+    "answer": "Undergraduate (UG) and Postgraduate (PG) programs such as B.Tech., M.Tech., and MCA."
+  },
+  {
+    "question": "Who is responsible for setting question papers?",
+    "answer": "Paper setters appointed by the Examination Committee."
+  },
+  {
+    "question": "What are some key guidelines for paper setters?",
+    "answer": "Ensure questions cover syllabus, correct marks distribution, and internal choices; avoid repetition; maintain question readability."
+  },
+  {
+    "question": "How is moderation of question papers handled?",
+    "answer": "Moderators check question papers for errors, repetitive content, and adherence to difficulty levels without communicating with paper setters."
+  },
+  {
+    "question": "When must question papers be printed?",
+    "answer": "At least one working day before the examination."
+  },
+  {
+    "question": "How are question papers secured during printing?",
+    "answer": "Only authorized staff have access; no storage device allowed; computer ports disabled; and printed papers are sealed and signed."
+  },
+  {
+    "question": "What is the packet sealing procedure?",
+    "answer": "Printed question papers are counted, placed in a cloth woven paper packet, sealed with tape, and signed by designated officials."
+  },
+  {
+    "question": "How are examinations conducted?",
+    "answer": "As per the approved exam schemes; exams include In Semester Evaluation, Mid Semester, End Semester, practicals, and projects."
+  },
+  {
+    "question": "What is the Mid Semester Examination (MSE)?",
+    "answer": "An exam of 20 marks, conducted in the 8th week, lasting 1 hour with syllabus coverage of 40-50%."
+  },
+  {
+    "question": "What provisions exist for physically disabled examinees?",
+    "answer": "They may get a writer or extra time (15-30 minutes) upon medical certification and permission from DCoE."
+  },
+  {
+    "question": "What is the role of invigilators?",
+    "answer": "To supervise exams, prevent malpractice, allow reasonable relief breaks, and report any incidents."
+  },
+  {
+    "question": "How is student performance evaluated?",
+    "answer": "Through continuous assessment including assignments, tests, seminars, MSE, and End Semester exams; marks are tabulated and displayed."
+  },
+  {
+    "question": "What is the procedure for answer book assessment?",
+    "answer": "Assessment is compulsory; graders award marks stepwise without comments; answer books are masked before assessment."
+  },
+  {
+    "question": "Who oversees the centralized assessment?",
+    "answer": "The Central Assessment Cell (CAC) manages ESE answer book assessment."
+  },
+  {
+    "question": "What happens if a student is caught using unfair means?",
+    "answer": "The Complaint Redress Committee investigates; provides a chance for defense; recommends punishment to the Academic Council."
+  },
+  {
+    "question": "How are exam staff implicated in malpractice handled?",
+    "answer": "Investigated by the Academic Council with due process; penalties may apply including disqualification from exam work."
+  },
+  {
+    "question": "How are results declared?",
+    "answer": "Results are prepared by course coordinators, displayed on notice boards, and sent to Controller of Exams (CoE)."
+  },
+  {
+    "question": "What is the revaluation procedure?",
+    "answer": "Candidates can apply for photocopies and revaluation of answer sheets; discrepancies above thresholds involve third examiner reassessment."
+  },
+  {
+    "question": "Are grade cards moderated?",
+    "answer": "Yes, by the Grade Moderation Committee before final results are declared."
+  },
+  {
+    "question": "How are provisional degrees issued?",
+    "answer": "After successful completion and result declaration, provisional degrees and migration certificates can be obtained as per college guidelines."
+  },
+  {
+    "question": "What is the vision of Government College of Engineering, Karad?",
+    "answer": "To emerge as a technical institution of national repute driven by excellence in value-based education and innovation in research to meet global professional needs."
+  },
+  {
+    "question": "Define 'Government' as per the rules.",
+    "answer": "Government means the Government of Maharashtra."
+  },
+  {
+    "question": "What does 'Programme' refer to?",
+    "answer": "A structured package of courses leading to B.Tech, M.Tech, or MCA degrees."
+  }
+    ,
+  {
+    "question": "Who is the 'Controller of Examinations' (CoE)?",
+    "answer": "The official responsible for overall coordination and management of examination activities under the Dean Academics."
+  },
+  {
+    "question": "Who appoints paper setters and examiners?",
+    "answer": "The Examination Committee appoints them from the panel provided by the Board of Studies."
+  },
+  {
+    "question": "What qualifications must paper setters have?",
+    "answer": "UG course paper setters must have at least a postgraduate degree in the relevant field; PG course setters require Ph.D. or postgraduate degrees."
+  },
+  {
+    "question": "What are the key instructions for question paper setters?",
+    "answer": "Questions should cover the entire syllabus, be clear, unambiguous, and test knowledge application over rote memory. Papers have 5-6 questions with about 30% internal choices."
+  },
+  {
+    "question": "How and when are question papers printed?",
+    "answer": "At least one working day before exams. Printing is done securely by designated staff with strict confidentiality and data protections."
+  },
+  {
+    "question": "What is the procedure for sealing question paper packets?",
+    "answer": "Printed papers are counted, placed in cloth woven packets, sealed with tape, and signed off by designated officials before secure storage."
+  },
+  {
+    "question": "What are the types of examinations conducted?",
+    "answer": "In Semester Evaluation (ISE), Mid Semester Examination (MSE), End Semester Examination (ESE), Practical Exams, Seminars, and Projects."
+  },
+  {
+    "question": "Describe the Mid Semester Examination (MSE).",
+    "answer": "MSE is of 20 marks, 1-hour duration, based on 40-50% syllabus, conducted around the 8th week of the semester."
+  },
+  {
+    "question": "What are the invigilator responsibilities?",
+    "answer": "Invigilators ensure discipline, distribute answer sheets and question papers, check identities, maintain attendance, prevent malpractice, and report incidents."
+  },
+  {
+    "question": "What provisions exist for physically disabled students?",
+    "answer": "Disabled students may get a scribe or extra time (15-30 mins) with medical certification and approval from DCoE."
+  },
+  {
+    "question": "What is the role of the Central Assessment Cell (CAC)?",
+    "answer": "Conduct centralized assessment of ESE answer books, ensuring anonymity by masking identity, and coordinating evaluators."
+  },
+  {
+    "question": "What is the assessment procedure?",
+    "answer": "Evaluators assess answer books confidentially, awarding marks stepwise without comments, filling marks on front page clearly, and signing accordingly."
+  },
+  {
+    "question": "How is revaluation handled?",
+    "answer": "Students may apply for revaluation; if difference in marks after revaluation is more than 5%, revised marks are accepted; beyond 15%, a third examiner reassesses the script."
+  },
+  {
+    "question": "What actions are taken in case of unfair means?",
+    "answer": "A complaint redress committee investigates; students may be penalized by Academic Council based on severity."
+  },
+  {
+    "question": "Who investigates malpractice by exam staff?",
+    "answer": "The Academic Council investigates and takes appropriate disciplinary action."
+  },
+  {
+    "question": "How are results processed and declared?",
+    "answer": "Course coordinators prepare results which are then moderated and declared by CoE via official notices and display."
+  },
+  {
+    "question": "When and how are provisional degrees issued?",
+    "answer": "After successful completion and result declaration, provisional degree and migration certificates are issued as per college norms."
+  },
+  {
+    "question": "What programs are included in these exam rules for UG and PG?",
+    "answer": "The rules apply to Undergraduate programs such as B.Tech (including Direct Admission students) and Postgraduate programs such as M.Tech and MCA."
+  },
+  {
+    "question": "Who controls and manages the exams in the college?",
+    "answer": "The Examination Committee, headed by the Principal/Director as Chairman and including Dean Academics, CoE, University Nominee, and other experts."
+  },
+  {
+    "question": "How will the university ensure question papers are fair and cover the whole syllabus?",
+    "answer": "Question papers are set by appointed paper setters, moderated by Heads of Departments and Board of Studies chairpersons, ensuring syllabus coverage, proper difficulty, and internal choice."
+  },
+  {
+    "question": "Can we expect some choice in the question papers to manage workload?",
+    "answer": "Yes, question papers have 5 to 6 questions with about 30% internal choice. Students must answer all questions as required."
+  },
+  {
+    "question": "What measures are taken to ensure secure question paper printing?",
+    "answer": "Printing is done under strict secrecy by authorized staff in a secure printing section where data transfer devices are disabled. Printed question papers are sealed and locked safely."
+  },
+  {
+    "question": "What types of exams will I have to appear for during the semester?",
+    "answer": "Exams include In Semester Evaluation (ISE), Mid Semester Examination (MSE), End Semester Examination (ESE), Practical Exams, Seminars, and Projects."
+  },
+  {
+    "question": "How is the mid-semester exam different from the end-semester exam?",
+    "answer": "MSE is 20 marks, 1-hour long, covering 40–50% of syllabus, while ESE is 60 marks, 2.5–3 hours long, covering the entire syllabus."
+  },
+  {
+    "question": "Can I get extra time or a scribe if I have a disability?",
+    "answer": "Yes, students with physical disabilities can request a scribe or 15–30 minutes extra time with medical certification and prior DCoE permission."
+  }
+    ,
+  {
+    "question": "What do invigilators do to maintain discipline during exams?",
+    "answer": "Invigilators check identity cards, seating arrangements, distribute and collect answer books, prevent malpractice, maintain attendance, give warnings, and report misconduct to higher authorities."
+  },
+  {
+    "question": "How are break and relief times handled during exams?",
+    "answer": "Relieving supervisors allow invigilators brief breaks (not more than 10 minutes). Invigilators manage the exam environment but details of student breaks are not specified."
+  },
+  {
+    "question": "How will my answer sheets be assessed and by whom?",
+    "answer": "Answer books are centrally masked and assessed by qualified faculty appointed as examiners in the Central Assessment Cell. Assessment is stepwise and marks are recorded clearly."
+  },
+  {
+    "question": "Can I challenge my marks if I think there’s an error?",
+    "answer": "Yes, students can apply for revaluation or photocopy of their answer sheets within specified deadlines and by paying applicable fees."
+  },
+  {
+    "question": "What happens if my marks vary significantly after revaluation?",
+    "answer": "If the difference after revaluation is ±5% or more, revaluation marks replace the original. If difference exceeds 15%, a third examiner reassesses and the highest marks are retained."
+  },
+  {
+    "question": "What happens if a student is caught cheating or using unfair means?",
+    "answer": "A complaint redressal committee investigates such cases and may impose penalties like canceling exam results or disqualification from further exams."
+  },
+  {
+    "question": "Are exam staff also monitored for fairness and malpractice?",
+    "answer": "Yes, teaching and exam staff are monitored. Misconduct is investigated by the Academic Council and disciplinary action may follow."
+  },
+  {
+    "question": "How and when are my exam results declared?",
+    "answer": "Results are prepared by course coordinators, moderated by the Grade Moderation Committee, and declared by the Controller of Examinations on the MIS portal within a few days."
+  },
+  {
+    "question": "What is the process to apply for revaluation or get a photocopy of my answer sheet?",
+    "answer": "Students submit separate applications for each course with prescribed fees to the Dean Academics office by the notified deadlines. Photocopies are issued for reference only."
+  },
+  {
+    "question": "How do I get my provisional degree or migration certificate after finishing my course?",
+    "answer": "After successful completion and result declaration, provisional degree and migration certificates can be obtained through proper application to college authorities."
+  },
+  {
+    "question": "When and how should I submit my exam registration form?",
+    "answer": "Students must submit exam registration forms by notified dates, usually before the exam schedule begins, at the Dean Academics office."
+  },
+  {
+    "question": "What happens if I miss the exam form submission deadline?",
+    "answer": "Students who miss the deadline may not be allowed to appear for exams. Late submission is permitted only in exceptional cases with Examination Committee approval."
+  },
+  {
+    "question": "How will I be informed about the exam schedule and timings?",
+    "answer": "The Examination Committee publishes the exam schedule at the start of each semester on departmental and college notice boards."
+  },
+  {
+    "question": "What should I do if there is a clash in exam timings?",
+    "answer": "Report immediately to the Head of Department or Controller of Examinations for corrective action as per rules."
+  },
+  {
+    "question": "Can I appear for backlog exams?",
+    "answer": "Yes, students with backlog subjects can appear for supplementary exams as per the schedule notified by the Examination Committee."
+  },
+  {
+    "question": "Is there provision for improvement exams to enhance my grades?",
+    "answer": "Students may apply for improvement exams subject to conditions fixed by the Examination Committee regarding eligibility and fees."
+  },
+  {
+    "question": "How are internal assessments evaluated and how do they affect my final grade?",
+    "answer": "Internal assessment is based on assignments, quizzes, and seminars (usually 20 marks) and combined with end-semester marks for final grading."
+  },
+  {
+    "question": "Can I appeal if I am unhappy with my internal assessment marks?",
+    "answer": "Students may approach the Head of Department or the internal assessment grievance committee within prescribed timelines."
+  },
+  {
+    "question": "How are practical exams conducted and assessed?",
+    "answer": "Practical exams are conducted by internal and external examiners through viva voce, tasks, and performance evaluation as per schedules."
+  },
+  {
+    "question": "What is the evaluation process for projects and seminars?",
+    "answer": "Projects and seminars are evaluated by a panel of faculty based on reports, presentations, and performance criteria defined by the department."
+  },
+  {
+    "question": "What items am I allowed to bring into the exam hall?",
+    "answer": "Only permitted materials like admit card, ID card, and authorized instruments. Books, notes, phones, and gadgets are prohibited."
+  },
+  {
+    "question": "What are the dress code or ID requirements for exam day?",
+    "answer": "Students must carry valid college ID and follow any dress code or conduct guidelines set by the Examination Committee."
+  },
+  {
+    "question": "What is the procedure if I am absent due to medical reasons?",
+    "answer": "Submit a medical certificate to Dean Academics and apply for make-up exams or relaxation as per guidelines and committee approval."
+  },
+  {
+    "question": "Can I get exam reschedule or exemption on medical grounds?",
+    "answer": "Only in genuine medical cases with valid proof and prior approval from competent authorities."
+  },
+  {
+    "question": "How long after results can I apply for revaluation?",
+    "answer": "Apply within the notified period (usually a few weeks after results) with prescribed fees to the Dean Academics office."
+  },
+  {
+    "question": "What is the process if I want to lodge a complaint about exam conduct?",
+    "answer": "Submit complaints to the Complaint Redressal Committee formed by the Academic Council for formal investigation."
+  },
+  {
+    "question": "What is the policy on mobile phones or electronic devices during exams?",
+    "answer": "Use or possession of mobile phones, Bluetooth, or unauthorized electronics is strictly prohibited and may lead to disqualification."
+  },
+  {
+    "question": "How do my exam results affect my eligibility for placements or higher studies?",
+    "answer": "Students must clear all required exams and maintain minimum CGPA/SGPA to be eligible for placements or further studies."
+  },
+  {
+    "question": "Who controls the examinations in the college?",
+    "answer": "The Examination Committee chaired by the Principal/Director manages the exam process with Dean Academics, CoE, and university nominees."
+  },
+  {
+    "question": "What is the role of the Controller of Examinations (CoE)?",
+    "answer": "The CoE schedules exams, appoints staff, ensures security, processes results, and handles disciplinary actions."
+  },
+  {
+    "question": "How are paper setters and examiners appointed?",
+    "answer": "Qualified faculty or external experts are appointed by the Examination Committee and must maintain confidentiality."
+  },
+  {
+    "question": "How are question papers moderated?",
+    "answer": "Moderators verify syllabus coverage, clarity, and mark distribution without direct contact with paper setters."
+  },
+  {
+    "question": "How are question papers printed securely?",
+    "answer": "Printing is done in a secured environment by authorized staff with disabled data ports and sealed storage."
+  },
+  {
+    "question": "What are invigilator responsibilities?",
+    "answer": "Invigilators verify identity, distribute papers, monitor exams, maintain attendance, prevent cheating, and report issues."
+  },
+  {
+    "question": "How are answer books managed?",
+    "answer": "Answer books are collected, masked to hide student identity, and stored securely before assessment."
+  },
+  {
+    "question": "How is exam answer sheet confidentiality maintained?",
+    "answer": "The Central Assessment Cell anonymizes answer sheets with codes before evaluation to prevent bias."
+  },
+  {
+    "question": "How can I raise complaints regarding exams?",
+    "answer": "Complaints can be raised to the Complaint Redressal Committee for review and appropriate action."
+  },
+  {
+    "question": "What happens if a student is caught cheating?",
+    "answer": "The Complaint Redressal Committee investigates and recommends penalties such as exam cancellation or disqualification."
+  },
+  {
+    "question": "Are exam staff monitored for misconduct?",
+    "answer": "Yes, staff misconduct is investigated by the Academic Council and may result in disqualification from exam duties."
+  }
+
+]
